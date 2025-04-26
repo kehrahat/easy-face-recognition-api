@@ -29,14 +29,14 @@ pip install Flask deepface
 
 ## 2. Directory Structure
 
-- `/home/neways3/documents.neways3.com/assets/uploads/documents/face_attendance/`
+- `/home/public_html/api.x.com/assets/uploads/documents/face_attendance/`
   - Contains folders named after each `employee_id`
   - Each folder contains an image file starting with `face_` (e.g., `face_1.jpg`)
 
-- `/home/neways3/documents.neways3.com/face_attendance/tmp/`
+- `/home/public_html/api.x.com/face_attendance/tmp/`
   - Temporary storage for uploaded images for comparison.
 
-- `/home/neways3/documents.neways3.com/face_attendance/error_log.txt`
+- `/home/public_html/api.x.com/face_attendance/error_log.txt`
   - Error log file to store any issues that occur.
 
 ---
